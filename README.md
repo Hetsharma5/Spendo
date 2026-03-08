@@ -1,30 +1,6 @@
 # Spendo
 Spendo is a, fast, and privacy-focused personal finance app designed for manual expense tracking, budgeting, and subscription management. It offers a clean, minimalist interface to track daily spending, set budget goals, and view visual analytics, with data stored securely on-device.
 
-finance_tracker/
-│
-├── app.py                  # Main Flask application
-├── schema.sql              
-├── static/
-│   ├── css/
-│   │   └── style.css       
-│   │
-│   └── js/
-│       └── main.js         # The JavaScript file I provided
-│
-└── templates/
-    ├── index.html          # Login/registration page
-    ├── dashboard.html      # Main dashboard
-    ├── accounts.html       # Accounts management page
-    ├── transactions.html   # Transactions management page
-    ├── budget.html         # Budget management page
-    ├── goals.html          # Goals management page
-    ├── bills.html          # Bills management page
-    ├── education.html      # Financial education page
-    ├── settings.html       # User settings page
-    └── error.html          # Error page
-```
-
 ### Setup Instructions
 
 1. **Create the project directory structure** as shown above
